@@ -1,0 +1,7 @@
+Microsoft-Sentinel-KQL
+│
+├── Identity
+├── Email
+├── Endpoint
+├── Threat-Hunting
+└── README.md
