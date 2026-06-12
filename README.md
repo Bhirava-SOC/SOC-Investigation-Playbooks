@@ -10,9 +10,3 @@
 
 - Phishing Investigation
 - Business Email Compromise (BEC)
-
-### Endpoint Security
-
-- Malware Investigation
-- Ransomware Investigation
-- Suspicious PowerShell Activity
